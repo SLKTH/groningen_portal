@@ -15,8 +15,7 @@ Dit is een lijst met handige links voor raadsleden van de Gemeente Groningen
 
 |  |  |
 | ------ | ------ | 
-|  [poliflw (Groningen)](https://poliflw.nl/zoeken?location=Groningen) | Lokaal politiek nieuws inzichtelijk
-|  
+|  [poliflw (Groningen)](https://poliflw.nl/zoeken?location=Groningen) | Lokaal politiek nieuws inzichtelijk |  
 [Dagblad van het Noorden](https://dvhn.nl) | Krant |
 |  [Gezinsbode](https://gezinsbode.nl) | Omroep |
 |  [RTV Noord](https://rtvnoord.nl) | Omroep |
