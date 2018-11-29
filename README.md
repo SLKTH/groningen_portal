@@ -37,6 +37,6 @@ Dit is een lijst met handige links voor raadsleden van de Gemeente Groningen
 |||
 | ------ | ------ |
 | [Open State(Open State)](http://politwoops.eu/) |  Open State-website
-| [Datajournalisme (Open State)](http://politwoops.eu/) | Datajournalisme-tools op de Open State-website
+| [Datajournalisme (Open State)](http://openstate.eu/) | Datajournalisme-tools op de Open State-website
 
   - Laatste update: 29 november 2018
