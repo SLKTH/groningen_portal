@@ -28,8 +28,9 @@ Dit is een lijst met handige links voor raadsleden van de Gemeente Groningen
 | ------ | ------ |
 | [openwob](https://www.openwob.nl) | Zoeken in WOB-aanvragen
 |  [Open Raadsinformatie (alle gemeentes)](https://zoek.openraadsinformatie.nl) | Snel zoeken in raadsinformatie (alle gemeentes)|
-| [poliflw (alle gemeentes)](https://poliflw.nl) | Lokaal politiek nieuws inzichtelijk
-| [politiwoobs](http://politwoops.eu/) | Verwijderde Tweets inzichtelijk
+| [poliflw (alle gemeentes)](https://poliflw.nl) | Lokaal politiek nieuws inzichtelijk |
+| [politiwoobs](http://politwoops.eu/) | Verwijderde Tweets inzichtelijk |
+| [WaarOverheid](https://app.waaroverheid.nl/WK001400) | Raadsinformatie op kaart |
 
 ### Achtergrond
 
