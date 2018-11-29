@@ -20,7 +20,6 @@ Dit is een lijst met handige links voor raadsleden van de Gemeente Groningen
 |  [Gezinsbode](https://gezinsbode.nl) | Krant |
 |  [RTV Noord](https://rtvnoord.nl) | Omroep |
 |  [OOG TV](https://oogtv.nl) | Omroep |
-|  
  
 ### Open Data
 
