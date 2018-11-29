@@ -6,7 +6,7 @@ Dit is een lijst met handige links voor raadsleden van de Gemeente Groningen
 
 | Website | Info |
 | ------ | ------ |
-|  [Open Raadsinformatie (Groningen)](https://zoek.openraadsinformatie.nl) | Snel zoeken in raadsinformatie |
+|  [Open Raadsinformatie (Groningen)](https://zoek.openraadsinformatie.nl/#/g/groningen) | Snel zoeken in raadsinformatie |
 |  [Raadsinformatie Groningen](https://groningen.raadsinformatie.nl) | Raadsinformatie Portal Groningen |
 |  [Open Raadsinformatie](https://zoek.openraadsinformatie.nl) | Snel zoeken in raadsinformatie (alle gemeentes)|
 |  [Raadsinformatie Groningen (Dossiers)](https://groningen.raadsinformatie.nl) | Raadsinformatie Portal Groningen (Dossiers) |
