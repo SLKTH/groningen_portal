@@ -36,6 +36,6 @@ Dit is een lijst met handige links voor raadsleden van de Gemeente Groningen
 
 |||
 | ------ | ------ |
-| [Open State(Open State)](http://openstate.eu) |  Open State-website
+| [Open State](http://openstate.eu) |  Open State-website
 
   - Laatste update: 29 november 2018
